@@ -1,0 +1,31 @@
+
+body{
+    background: skyblue;
+  
+}
+
+table{
+    margin: auto;
+}
+thead{
+    background: rgb(150,50,0);
+}
+table,th,td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+th{
+    padding: 20px;
+    color: yellow;
+    font-size: 20px;
+}
+td{
+    background: rgb(100,80,0);
+    color: skyblue;
+    padding: 5px;
+    font-size: 20px;
+}
+caption{
+    font-size: 30px;
+    color: #000;
+}
